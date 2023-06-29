@@ -2,8 +2,8 @@
 An android speeding information service on build on Android Automotive OS (AAOS) that sends a notification whenever the car's speed exceeds a set speed limit.
 
 # Tech-Stack
-Language: Kotlin.
-Software: Android Studio, Git.
+*Language: Kotlin.
+*Software: Android Studio, Git.
 
 # Permissions
 The App requires the following permission: 
